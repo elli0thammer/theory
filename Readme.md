@@ -12,7 +12,7 @@ for (var i = 0; i < arr.length; i++) {
 
 ```
 
-Выведит: Bad: undefined, Bad: undefined, Bad: undefined, Bad: undefined
+Отображает: Bad: undefined, Bad: undefined, Bad: undefined, Bad: undefined
 
 ---
 
@@ -33,7 +33,7 @@ for (let i = 0; i < arr.length; i++) {
 }
 ```
 
-Выведит: Bad: 10, Bad: 12, Good: 15, Good: 21
+Отображает: Bad: 10, Bad: 12, Good: 15, Good: 21
 
 ---
 
