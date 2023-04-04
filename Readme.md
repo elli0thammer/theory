@@ -52,3 +52,4 @@ for (var i = 0; i < arr.length; i++) {
     })(i)
 }
 ```
+GitHub Pages: https://elli0thammer.github.io/theory/
