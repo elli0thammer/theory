@@ -1,3 +1,13 @@
+### Тестовое задание: 
+
+Часть 1 - https://github.com/elli0thammer/practice-1
+
+Часть 2 - https://github.com/elli0thammer/practice-2
+
+Часть 3 - https://github.com/elli0thammer/practice-3
+
+### Теоретическая часть:
+
 Написать что выводит данный код.
 Предложите 2 варианта модификации кода, чтобы ответ был следующим: Bad: 10, Bad: 12, Good: 15, Good: 21
 
